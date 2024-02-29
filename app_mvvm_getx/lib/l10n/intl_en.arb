@@ -1,0 +1,8 @@
+{
+    "@@locale": "en",
+    "homePageTitle": "Flutter Demo Home Page",
+    "homePageTitleDescription": "The title for the home page.",
+    "youHavePushed": "You have pushed the button this many times:",
+    "youHavePushedDescription": "Message displayed when the button is pressed."
+  }
+  
